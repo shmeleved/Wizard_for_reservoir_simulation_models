@@ -1,4 +1,4 @@
-# Wizard_for_building_maps_and_reports_of_reservoir_simulation_models
+# Wizard for building maps and reports of reservoir simulation_models
 
 The application allows you to:
 * read and decrypt the resulting hydrodynamic model calculation files (binary formats)
