@@ -4,7 +4,7 @@ The application allows you to:
 * read and decrypt the resulting hydrodynamic model calculation files (binary formats)
 * automatically create development maps and upload them in exchange format (CPS-3)
 * upload various model reports (Excel, PowerPoint)
-* download the necessary data from the downhole zone 
+* download the necessary data from the near-well zone 
 
 **Which significantly reduces the routine load on the development engineer**
 
