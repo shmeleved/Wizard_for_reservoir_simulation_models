@@ -1,4 +1,4 @@
-# Wizard for building maps and reports of reservoir simulation models
+# Wizard for reservoir simulation models
 
 The application allows you to:
 * read and decrypt the resulting reservoir simulation model calculation files (binary formats)
