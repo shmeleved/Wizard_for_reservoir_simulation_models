@@ -1,5 +1,14 @@
 # Wizard for reservoir simulation models
 
+Main libraries:
+* pandas
+* numpy
+* PyQt5
+* plotly
+* seaborn
+* os
+
+
 The application allows you to:
 * read and decrypt the resulting reservoir simulation model calculation files (binary formats)
 * automatically create development maps and upload them in exchange format (CPS-3)
